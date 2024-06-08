@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arthcc/woovi-challenge.git",
+  "author": "arthcc <arthurdaconceicaocunha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.15.3"
+  }
+}
