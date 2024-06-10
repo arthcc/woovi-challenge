@@ -6,7 +6,8 @@
   "author": "arthcc <arthurdaconceicaocunha@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node server.ts"
+    "start": "nodemon server.ts",
+    "dev": "nodemon server/src/server.ts"
   },
   "dependencies": {
     "@graphql-tools/schema": "^10.0.4",
